@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.spessoa.integracao.sevenautomacao;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;

@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.spessoa.integracao.sevenautomacao;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
